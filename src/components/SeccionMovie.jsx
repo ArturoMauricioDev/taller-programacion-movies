@@ -7,11 +7,11 @@ const SeccionMovie = ({movies, title}) => {
       <span>{title}</span>
       <div className='seccion-container'>
 
-        {
+        {/* {
           movies.map((movie) => {
             <img src={movie.url} alt="" />
           })
-        }
+        } */}
         
       </div>
     </div>
